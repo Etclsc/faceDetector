@@ -1,0 +1,2 @@
+# faceDetector
+MicrosoftのEmotionAPIを使って表情認識で遊ぶ
